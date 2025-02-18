@@ -104,7 +104,8 @@
 - 25.02.17  Mon  스터디 주제선정
 ([상세 내역 링크](https://github.com/wonajin/ayven-til/blob/main/2025-02-17.md))
 
-- 25.02. Tue 
+- 25.02.18 Tue 3차 프로젝트 설계
+([상세 내역 링크](https://github.com/wonajin/ayven-til/blob/main/2025-02-18.md)) 
 
 - 25.02.  Wen  
 
