@@ -66,51 +66,11 @@
 ### [11월 3째주, 5주차] : 커뮤니티 다시 js부터 시작
 
 - 24.11.20  Wen  딥다이브-데이터 구조
-([상세 내역 링크](https://github.com/wonajin/ayven-til/blob/main/2024-11-27.md))
+비
+ ([상세 내역 링크](https://github.com/wonajin/ayven-til/blob/main/2025-02-19.md)) 
 
-
-### [2월 1째주, 13주차] : 커뮤니티 DB연결
-
-- 25.02.04  Tue  DB 게시글,댓글 구현
-([상세 내역 링크](https://github.com/wonajin/ayven-til/blob/main/2025-02-04.md))
-
-- 25.02.05  Wen  딥다이브-페이징과 메모리, DB 게시글 추가 구현
-([상세 내역 링크](https://github.com/wonajin/ayven-til/blob/main/2025-02-05.md))
-
-- 25.02.07  Fri  CS 강의
-([상세 내역 링크](https://github.com/wonajin/ayven-til/blob/main/2025-02-07.md))
-
-
-
-
-### [2월 2째주, 14주차] : AWS실습, 리액트 스터디, 특강
-
-- 25.02.10  Mon  AWS실습, 리액트 스터디 ,자바 특강
-([상세 내역 링크](https://github.com/wonajin/ayven-til/blob/main/2025-02-10.md))
-
-- 25.02.11 Tue 리액트 공부
-([상세 내역 링크](https://github.com/wonajin/ayven-til/blob/main/2025-02-11.md))
-
-- 25.02.12  Wen  리액트 공부
-([상세 내역 링크](https://github.com/wonajin/ayven-til/blob/main/2025-02-12.md))
-
-- 25.02.13  Thu  리액트 공부, 자바
-([상세 내역 링크](https://github.com/wonajin/ayven-til/blob/main/2025-02-12.md))
-
-
-
-### [2월 3째주, 15주차] :  리액트 스터디, 3차스터디 주제선정
-
-- 25.02.17  Mon  스터디 주제선정
-([상세 내역 링크](https://github.com/wonajin/ayven-til/blob/main/2025-02-17.md))
-
-- 25.02.18 Tue 3차 프로젝트 설계
-([상세 내역 링크](https://github.com/wonajin/ayven-til/blob/main/2025-02-18.md)) 
-
-- 25.02.  Wen  
-
-- 25.02.  Thu  
-
+- 25.02.20  Thu  해커톤 1차 회의, 리액트 스터디
+([상세 내역 링크](https://github.com/wonajin/ayven-til/blob/main/2025-02-20.md)) 
 
 
 ---------------------------------------
