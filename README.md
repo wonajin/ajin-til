@@ -47,6 +47,8 @@
 - 25.02.17  Mon  스터디 주제 선정 ([상세 내역 링크](https://github.com/wonajin/ajin-til/blob/main/2025-02-17.md))
 - 25.02.19  Wen  딥다이브-데이터 구조 ([상세 내역 링크](https://github.com/wonajin/ajin-til/blob/main/2025-02-19.md))
 - 25.02.20  Thu  해커톤 1차 회의, 리액트 스터디 ([상세 내역 링크](https://github.com/wonajin/ajin-til/blob/main/2025-02-20.md))
+- 25.02.21  Fri  3차 스터디 설계 ([상세 내역 링크](https://github.com/wonajin/ajin-til/blob/main/2025-02-21.md))
+- 25.02.23  Sun  리액트-테일윈드 공부 ([상세 내역 링크](https://github.com/wonajin/ajin-til/blob/main/2025-02-23.md))
 
 ---------------------------------------
 
